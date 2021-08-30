@@ -10,6 +10,7 @@ public class helper {
   public static int[] deckNums = new int[52];
   
   public static void main(String[] args) {
+	// test
     System.out.println("I am Alex's virtual assistant!");
     System.out.println("Please shuffle the deck well.");
     System.out.println("Then, from top to bottom, enter the cards in the deck.");
